@@ -70,9 +70,8 @@ Changing magnetic field → Induced EMF → Instant communication → Payment co
 ## 5. Mathematical Model
 
 ### Induced EMF
-\[
-\mathcal{E} = -N \frac{d(B \cdot A)}{dt}
-\]
+<img width="223" height="33" alt="image" src="https://github.com/user-attachments/assets/8e031c7d-1e5e-4077-bd74-f2633075409b" />
+
 
 Where:
 - \( N \): number of turns in the receiver coil  
@@ -80,9 +79,7 @@ Where:
 - \( B \): magnetic flux density from the terminal field  
 
 ### Power Transfer
-\[
-P = \mathcal{E} \times I
-\]
+<img width="101" height="35" alt="image" src="https://github.com/user-attachments/assets/a0a4d631-e7f5-46f0-8672-a81095d0c14e" />
 
 Typical induced power: **15 mW – 50 mW**, sufficient to run the NFC chip and complete encrypted data transfer.
 
