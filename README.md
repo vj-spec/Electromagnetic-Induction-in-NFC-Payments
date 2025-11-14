@@ -3,6 +3,8 @@
 > A real-world application of **Faraday’s Law of Electromagnetic Induction** enabling secure, instant, and power-efficient digital transactions.
 
 ---
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/10ca6b53-a662-480c-9451-e12037a9000c" />
+
 
 ## 1. Introduction
 
