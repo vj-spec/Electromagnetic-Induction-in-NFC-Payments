@@ -32,11 +32,7 @@ When you tap your smartphone or NFC card near a payment terminal:
 
 ## 3. Physics Behind the Tap
 
-### a) Faraday’s Law of Induction
-
-\[
-\mathcal{E} = -N \frac{d\Phi_B}{dt}
-\]
+<img width="988" height="227" alt="image" src="https://github.com/user-attachments/assets/5bea6ad4-4d0f-4c70-bd02-c8174466ad35" />
 
 The **payment terminal** acts as a *transmitter coil* producing a rapidly alternating magnetic field.  
 Your **card or phone coil** serves as the *receiver*, where this changing field induces a voltage.
