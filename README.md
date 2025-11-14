@@ -131,10 +131,4 @@ where a tiny induced voltage bridges physics and finance.
 
 ---
 
-### 🖼️ Suggested Image Ideas
-
-- Contactless card near NFC terminal (field lines illustration)  
-- Coupled coil diagram showing induced EMF  
-- Tap-and-Pay working block diagram  
-- Faraday’s Law equation overlay with NFC loop
 
