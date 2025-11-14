@@ -17,14 +17,14 @@ These systems demonstrate how **changing magnetic fields can induce electric pow
 
 ## 2. Background: Rise of Tap-and-Pay Transactions
 
-### 🌍 Real-World Scenario
+###  Real-World Scenario
 When you tap your smartphone or NFC card near a payment terminal:
 1. The **terminal coil** generates a **time-varying magnetic field**.  
 2. Your **card’s internal antenna coil** intercepts this changing field.  
 3. By **Faraday’s Law**, an **EMF is induced**, momentarily powering the microchip.  
 4. The chip exchanges encrypted payment data wirelessly.
 
-### ⚙️ Technologies Used
+###  Technologies Used
 - **NFC (Near Field Communication)** – 13.56 MHz short-range magnetic coupling  
 - **Secure Element (SE)** or **eSE chips** for encryption  
 - **UPI Tap-and-Pay integration (2024)** for instant digital settlements  
@@ -90,15 +90,15 @@ Typical induced power: **15 mW – 50 mW**, sufficient to run the NFC chip and c
 ## 6. Advantages and Challenges
 
 **Advantages**
-- 🔋 No internal battery required (chip powered inductively)  
-- ⚡ Fast, secure, and contactless transactions  
-- 💧 Works in dust and moisture-prone environments  
-- 🔒 Short-range coupling enhances security  
+-  No internal battery required (chip powered inductively)  
+-  Fast, secure, and contactless transactions  
+-  Works in dust and moisture-prone environments  
+-  Short-range coupling enhances security  
 
 **Challenges**
-- 📶 Limited range (a few centimeters)  
-- 🧭 Misalignment between coils reduces efficiency  
-- 🧠 Requires precise synchronization for reliable data exchange  
+-  Limited range (a few centimeters)  
+-  Misalignment between coils reduces efficiency  
+-  Requires precise synchronization for reliable data exchange  
 
 ---
 
@@ -111,7 +111,7 @@ Typical induced power: **15 mW – 50 mW**, sufficient to run the NFC chip and c
 
 ---
 
-## ⚡ Conclusion
+##  Conclusion
 
 Contactless payment is a modern manifestation of **Faraday’s Law in action** —  
 turning magnetic fields into instant power and information exchange.  
@@ -121,7 +121,7 @@ where a tiny induced voltage bridges physics and finance.
 
 ---
 
-## 📚 References
+##  References
 
 1. Faraday, M. *Experimental Researches in Electricity*, 1831  
 2. Maxwell, J.C. *A Treatise on Electricity and Magnetism*, 1873  
